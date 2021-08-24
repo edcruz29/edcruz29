@@ -1,7 +1,7 @@
 ### Bem-vindo(a), sou o Eduardo Cruz e agradeço a sua visita!
 
 - 🔭 Analista Funcional
-- 🌱 EStudando atualmente na Digital House - Fullstack
+- 🌱 Aluno da Digital House - Fullstack - Nodejs
 
  <div>
   <a href="https://github.com/edcruz29">
